@@ -138,7 +138,7 @@ nav {
         margin-right: 30px; }
     nav .navbar-nav .nav-item {
       -webkit-transition: all 0.3s;
-      border-bottom: 4px solid tranparent;
+      border-bottom: 4px solid transparent;
       transition: all 0.3s;
       padding-bottom: 8px; }
       nav .navbar-nav .nav-item:not(:last-child) {
