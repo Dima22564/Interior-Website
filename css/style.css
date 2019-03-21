@@ -138,6 +138,7 @@ nav {
         margin-right: 30px; }
     nav .navbar-nav .nav-item {
       -webkit-transition: all 0.3s;
+      border-bottom: 4px solid tranparent;
       transition: all 0.3s;
       padding-bottom: 8px; }
       nav .navbar-nav .nav-item:not(:last-child) {
@@ -146,7 +147,7 @@ nav {
           nav .navbar-nav .nav-item:not(:last-child) {
             margin-right: 22px !important; } }
       nav .navbar-nav .nav-item:hover {
-        border-bottom: 4px solid #fece76; }
+        border-color: #fece76; }
         @media screen and (max-width: 991.98px) {
           nav .navbar-nav .nav-item:hover {
             border: none; } }
