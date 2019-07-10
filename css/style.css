@@ -655,6 +655,9 @@ header {
   .designers .lines {
     margin-bottom: 76px; }
     @media screen and (max-width: 991.98px) {
+      header .carousel{
+        margin-left: 0;
+      }
       .designers .lines {
         margin-bottom: 16px; } }
   .designers .person h6 {
